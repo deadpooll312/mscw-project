@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>5D0B153F-1BD1-426F-A9F0-9FE5D56D4FC5</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pins/pin_green">
+            <path d="M15,28.7281036 C23.0306482,22.361284 27,17.0061643 27,12.8 C27,6.28654013 21.6308577,1 15,1 C8.36914232,1 3,6.28654013 3,12.8 C3,17.0061643 6.96935181,22.361284 15,28.7281036 Z" id="back" stroke="#FFFFFF" stroke-width="2" fill="#6FB216"></path>
+            <path d="M15,16 C16.6568542,16 18,14.6568542 18,13 C18,11.3431458 16.6568542,10 15,10 C13.3431458,10 12,11.3431458 12,13 C12,14.6568542 13.3431458,16 15,16 Z" id="point" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

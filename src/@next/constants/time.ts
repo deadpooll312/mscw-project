@@ -1,0 +1,25 @@
+const ZERO_SECOND = 0;
+const ONE_SECOND = 1;
+const ONE_SECOND_IN_MS = 1000;
+const TWO_HUNDRED_MS = 200;
+const SIX_HUNDRED_MS = 600;
+const ONE_DAY = 1;
+const FIVE_DAYS = 5;
+const SIX_DAYS = 6;
+const ONE_WEEK_DAYS = 7;
+const TWENTY_ONE_HOUR_GRINWICH = 18;
+
+const TIME = {
+  ZERO_SECOND,
+  ONE_SECOND,
+  ONE_SECOND_IN_MS,
+  SIX_HUNDRED_MS,
+  TWO_HUNDRED_MS,
+  FIVE_DAYS,
+  SIX_DAYS,
+  ONE_WEEK_DAYS,
+  ONE_DAY,
+  TWENTY_ONE_HOUR_GRINWICH
+};
+
+export default TIME;

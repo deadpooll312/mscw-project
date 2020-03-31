@@ -1,0 +1,8 @@
+.date-picker-component .ant-calendar-time-picker-btn {
+  color: #2b55e6;
+}
+
+.date-picker-component .ant-calendar-ok-btn{
+  background-color: #2b55e6;
+  color: white;
+}

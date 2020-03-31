@@ -1,0 +1,73 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "allowJs": true,
+    "target": "es5",
+    "module": "commonjs",
+    "declaration": false,
+    "allowSyntheticDefaultImports": true,
+    "pretty": true,
+    "noImplicitAny": false,
+    "removeComments": false,
+    "isolatedModules": false,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "downlevelIteration": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": false,
+    "noImplicitThis": true,
+    "strictFunctionTypes": false,
+    "noEmit": false,
+    "noLib": false,
+    "jsx": "react",
+    "sourceMap": false,
+    "outDir": "dist",
+    "lib": [
+      "dom",
+      "esnext"
+    ],
+    "typeRoots": [
+      "node_modules/@types",
+      "src/@types"
+    ],
+    "plugins": [
+      {
+        "name": "typescript-styled-plugin",
+        "tags": [
+          "styled",
+          "css"
+        ]
+      }
+    ],
+    "types": [
+      "@types/enzyme",
+      "@types/enzyme-adapter-react-16",
+      "@types/html-webpack-plugin",
+      "@types/jest",
+      "@types/lodash-es",
+      "@types/node",
+      "@types/ol",
+      "@types/react",
+      "@types/react-dom",
+      "@types/react-redux",
+      "@types/react-router-dom",
+      "@types/react-slick",
+      "@types/recharts",
+      "@types/sockjs-client",
+      "@types/stompjs",
+      "@types/styled-components",
+      "@types/webpack",
+      "@types/webpack-dev-server",
+      "@types/webpack-env"
+    ],
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "src/static",
+    "__deprecated",
+  ]
+}

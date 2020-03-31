@@ -1,0 +1,39 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "corejs": { "version": 3, "proposals": true },
+        "useBuiltIns": "usage",
+        "targets": [
+          "last 2 version",
+          "not IE 11",
+          "not IE_Mob 11",
+          "> 1%"
+        ]
+      }
+    ],
+    ["@babel/preset-typescript"],
+    ["@babel/preset-react", { "useSpread": true }]
+  ],
+  "plugins": [
+    [
+      "@babel/plugin-transform-react-jsx",
+      { "useSpread": true }
+    ],
+    [
+      "@babel/plugin-proposal-class-properties",
+      {
+        "loose": true
+      }
+    ],
+    [
+      "babel-plugin-styled-components",
+      {
+        "fileName": false
+      }
+    ],
+    "@babel/plugin-syntax-dynamic-import",
+    "react-hot-loader/babel"
+  ]
+}

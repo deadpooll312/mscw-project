@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>legend_media</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.0900974233" y="0.590097423" width="20" height="20" rx="6"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="legends/legend_2" transform="translate(-711.000000, -26.000000)">
+            <g id="legend_media" transform="translate(711.000000, 26.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <path d="M2.72613639,-1.11700936 L3.72613639,-1.11700936 L3.72613639,22.8829906 L2.72613639,22.8829906 L2.72613639,-1.11700936 Z M-1.51650429,0.297204204 L-0.516504294,0.297204204 L-0.516504294,24.2972042 L-1.51650429,24.2972042 L-1.51650429,0.297204204 Z M6.96877708,-1.11700936 L7.96877708,-1.11700936 L7.96877708,22.8829906 L6.96877708,22.8829906 L6.96877708,-1.11700936 Z M11.2114178,-1.11700936 L12.2114178,-1.11700936 L12.2114178,22.8829906 L11.2114178,22.8829906 L11.2114178,-1.11700936 Z M15.4540585,-1.11700936 L16.4540585,-1.11700936 L16.4540585,22.8829906 L15.4540585,22.8829906 L15.4540585,-1.11700936 Z M19.6966991,-1.11700936 L20.6966991,-1.11700936 L20.6966991,22.8829906 L19.6966991,22.8829906 L19.6966991,-1.11700936 Z" id="Shape" fill="#2A2A2C" mask="url(#mask-2)" transform="translate(9.590097, 11.590097) rotate(-315.000000) translate(-9.590097, -11.590097) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

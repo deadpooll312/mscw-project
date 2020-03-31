@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>weather/sun</title>
+    <desc>Created with Sketch.</desc>
+    <g id="weather/sun" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8,16 L8,13.9916497" id="Line" stroke="#FEDD2A"></path>
+        <path d="M8,2.0083503 L8,0" id="Line" stroke="#FEDD2A"></path>
+        <path d="M1.00417515,9.00417515 L1.00417515,6.99582485" id="Line" stroke="#FEDD2A" transform="translate(1.004175, 8.000000) rotate(-270.000000) translate(-1.004175, -8.000000) "></path>
+        <path d="M14.9958249,9.00417515 L14.9958249,6.99582485" id="Line" stroke="#FEDD2A" transform="translate(14.995825, 8.000000) rotate(-270.000000) translate(-14.995825, -8.000000) "></path>
+        <path d="M3.05320481,13.9509703 L3.05320481,11.94262" id="Line" stroke="#FEDD2A" transform="translate(3.053205, 12.946795) rotate(-315.000000) translate(-3.053205, -12.946795) "></path>
+        <path d="M12.9467952,4.05737996 L12.9467952,2.04902966" id="Line" stroke="#FEDD2A" transform="translate(12.946795, 3.053205) rotate(-315.000000) translate(-12.946795, -3.053205) "></path>
+        <path d="M3.05320481,4.05737996 L3.05320481,2.04902966" id="Line" stroke="#FEDD2A" transform="translate(3.053205, 3.053205) rotate(-225.000000) translate(-3.053205, -3.053205) "></path>
+        <path d="M12.9467952,13.9509703 L12.9467952,11.94262" id="Line" stroke="#FEDD2A" transform="translate(12.946795, 12.946795) rotate(-225.000000) translate(-12.946795, -12.946795) "></path>
+        <circle id="Oval" stroke="#FEDD2A" fill-opacity="0.4" fill="#FEDD2A" cx="8" cy="8" r="4.5"></circle>
+    </g>
+</svg>

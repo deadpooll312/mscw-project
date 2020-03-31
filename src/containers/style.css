@@ -1,0 +1,16 @@
+.ol-overlay-container:hover{
+   z-index: 999;
+   cursor: pointer;
+}
+
+.selectedTab {
+   background-color: #dee2e8 !important;
+   color: gray !important;
+}
+
+.selectedTabWithoutCookie {
+   background-color: #dee2e8 !important;
+   color: gray !important;
+   width: 200px;
+}
+
