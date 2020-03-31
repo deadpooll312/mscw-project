@@ -47,9 +47,11 @@ const palette = {
   black: '#2A2A2C',
   black_25: '#2A2A2C',
 
-  blueDark: '#0f0f25',
+  //blueDark: '#0f0f25',
+  blueDark: '#121212',
   // blueDark: '#fff',
-  blueDarkDark: '#080814',
+  //blueDarkDark: '#080814',
+  blueDarkDark: '#121212',
   // blueDarkDark: '#efefef',
   purpure: '#736a8f',
   valentine: '#BF94A3',
